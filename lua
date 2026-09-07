@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/stealabrainrotz/AutoRiddle/refs/heads/main/lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/lMiT3JZJiI/0"))()
